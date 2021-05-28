@@ -2,7 +2,7 @@
 iframe {
   border: 0px;
   width: 100%;
-  height: 30vw;
+  height: 34vw;
   margin-bottom: 20px;
 }
 
@@ -31,6 +31,15 @@ footer {
   background-color: white;
 }
 
+#hammyp {
+  margin-bottom: 30px;
+}
+
+table {
+  width: 90%;
+  margin: auto;
+}
+
 /* text-styling */
 .jumbotron h1 {
   text-shadow: 3px 3px grey;
@@ -54,6 +63,15 @@ h2 {
   margin: 15px 0;
 }
 
+#aboutmeIntro {
+  width: 80%;
+  margin: 0 10vw;
+  margin-bottom: 15px;
+  font-size: 20px;
+  color: grey;
+  text-align: center;
+}
+
 .largen {
   color:rgb(87, 131, 167);
   font-weight: bold;
@@ -73,6 +91,13 @@ a:hover {
   text-transform: uppercase;
 }
 
+table a {
+  font-size: 25px;
+}
+
+
+
+
 
 /* media */
 .images {
@@ -87,3 +112,19 @@ a:hover {
   margin-right: 30px;
   border: 1px solid black;
 } 
+
+#oppa {
+  float: right;
+  width: 30vw;
+  margin-right: 30px;
+  border: 1px solid black;
+} 
+
+#hamster {
+  float: left;
+  display: block;
+  border: 1px solid black;
+  width: 25%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
