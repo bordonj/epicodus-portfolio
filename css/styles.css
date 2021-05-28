@@ -7,7 +7,8 @@ iframe {
 }
 
 .row {
-  margin-bottom:50px;
+  margin-bottom:20px;
+  border-bottom: 4px double black;
 }
 
 .jumbotron {
@@ -51,6 +52,9 @@ h1, h2, h3 {
   text-transform: uppercase;
 }
 
+h4 {
+  font-style: oblique;
+}
 h2 {
   color: white;
   background-color: rgb(75, 107, 133);
