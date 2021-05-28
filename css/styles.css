@@ -6,14 +6,18 @@ iframe {
 }
 
 .row {
-  margin-bottom: 15px;
+  margin-bottom:50px;
 }
 
 .jumbotron {
-  background-color: rgb(47, 58, 67);
+  background-color: rgb(44, 82, 114);
   color: white;
 }
-/* Add a gray background color and some padding to the footer */
+
+.inline {
+  padding-right: 15px;
+}
+
 footer {
   background-color: rgb(47, 58, 67);
   color: white;
@@ -22,7 +26,37 @@ footer {
 }
 
 /* text-styling */
+.jumbotron h1 {
+  text-shadow: 3px 3px grey;
+}
+
+p.intro {
+  margin: 0 40px;
+  font-size: 20px;
+  line-height: 40px;
+}
+h1, h2, h3 {
+  text-transform: uppercase;
+}
+
+a {
+  color: rgb(44, 82, 114);
+  font-weight: bold;
+  text-transform: uppercase;
+  transition-duration: 0.5s;
+}
+
+a:hover {
+  color: grey;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+}
 
 /* media */
-
+.images {
+  width: 20vw;
+  height: 18vw;
+  border: 1px solid black;
+}
 
