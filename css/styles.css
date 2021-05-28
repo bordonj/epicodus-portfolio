@@ -1,0 +1,28 @@
+/* layout */
+iframe {
+  border: 0px;
+  width: 100%;
+  height: 30vw;
+}
+
+.row {
+  margin-bottom: 15px;
+}
+
+.jumbotron {
+  background-color: rgb(47, 58, 67);
+  color: white;
+}
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: rgb(47, 58, 67);
+  color: white;
+  padding: 25px;
+  border-radius: 5px;
+}
+
+/* text-styling */
+
+/* media */
+
+
