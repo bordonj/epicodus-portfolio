@@ -1,13 +1,13 @@
 /* layout */
-/* .container-fluid {
-  padding: 0;
-} */
 
+#row2 {
+  height: 35vw;
+}
 iframe {
   border: 0px;
   width: 100%;
-  height: 36vw;
-  margin-bottom: 1vw;
+  height: 100%;
+  padding-bottom: 1vw;
 }
 
 .row {
