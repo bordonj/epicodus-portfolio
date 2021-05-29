@@ -42,6 +42,7 @@ table {
   width: 90%;
   margin: auto;
 }
+
 .intro .row {
   border-bottom: none;
   margin-left: 3vw;
@@ -59,6 +60,7 @@ h1, h2, h3 {
 h4 {
   font-style: oblique;
 }
+
 h2 {
   color: white;
   background-color: rgb(75, 107, 133);
@@ -104,10 +106,6 @@ a:hover {
 table a {
   font-size: 25px;
 }
-
-
-
-
 
 /* media */
 .images {
