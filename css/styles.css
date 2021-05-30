@@ -1,7 +1,8 @@
 /* layout */
 
-#row2 {
-  height: 35vw;
+html, body {
+  height: 70%;
+  margin: 0 15px;
 }
 iframe {
   border: 0px;
@@ -19,6 +20,7 @@ iframe {
   background-color: rgb(106, 112, 118);
   color: white;
   margin-bottom: 20px;
+  border-radius: 5px;
 }
 
 .inline {
